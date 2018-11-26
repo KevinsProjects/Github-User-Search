@@ -1,0 +1,14 @@
+.footer {
+  width: 100%;
+  background-color: #fff;
+  margin-top: baseline(2);
+
+  &__copyright {
+    text-align: center;
+    padding: baseline(1) 0;
+
+    p {
+      font-size: .7rem;
+    }
+  }
+}
